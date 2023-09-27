@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">A passionate fullstack software engineer based in UK</h3>
+<h3 align="center">A passionate graduate DevOps engineer based in UK</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
